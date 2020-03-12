@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aishahpeib.byunfei.com/sitemap.xml
